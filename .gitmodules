@@ -1,0 +1,9 @@
+[submodule "QAsystem"]
+	path = QAsystem
+	url = https://github.com/BUCT-CS2301/QAsystem.git
+[submodule "DatabaseGroup"]
+	path = DatabaseGroup
+	url = git@github.com:BUCT-CS2301/DatabaseGroup.git
+[submodule "PalmMuseum"]
+	path = PalmMuseum
+	url = git@github.com:BUCT-CS2301/PalmMuseum.git
