@@ -7,3 +7,6 @@
 [submodule "PalmMuseum"]
 	path = PalmMuseum
 	url = git@github.com:BUCT-CS2301/PalmMuseum.git
+[submodule "Knowledge-Graph"]
+	path = Knowledge-Graph
+	url = git@github.com:BUCT-CS2301/Knowledge-Graph.git
